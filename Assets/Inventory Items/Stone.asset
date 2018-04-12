@@ -14,4 +14,4 @@ MonoBehaviour:
   itemName: 
   sprite: {fileID: 21300000, guid: a894c31a858c6454a93edd9ce6379564, type: 3}
   picSound: {fileID: 8300000, guid: c005d4c8a49d0ce4aa8ac93635fa3b0e, type: 3}
-  prefab: {fileID: 0}
+  prefab: {fileID: 1726641260731888, guid: bf3e914f57338c14d92e4eb0b23684db, type: 2}
